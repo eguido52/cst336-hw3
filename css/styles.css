@@ -1,0 +1,16 @@
+body
+{
+    background-image: url("../img/circles-light.png");
+    font-family: 'Cuprum', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+input
+{
+    font-size: 20px;
+    position:relative;
+    border:none;
+    outline:none; 
+    cursor:pointer;
+    width: 40px;
+}
